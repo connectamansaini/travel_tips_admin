@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1072381045265",
+    "project_id": "travel-tips-india",
+    "storage_bucket": "travel-tips-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072381045265:android:cd7d184f6a791798c0dfb0",
+        "android_client_info": {
+          "package_name": "com.example.travel_tips_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072381045265-7nnq07807n1rarv53j4941at28ivjuhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travel_tips_admin",
+            "certificate_hash": "2c2d885a66e763f628436759fcfe50107acf0dd6"
+          }
+        },
+        {
+          "client_id": "1072381045265-irb0jguh52gcv9mvmevrsf786pd42etl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAVPqbBnHfYOkoyktZ1xquSwxSuhLWd5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072381045265-irb0jguh52gcv9mvmevrsf786pd42etl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
